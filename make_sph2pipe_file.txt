@@ -1,0 +1,7 @@
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_2ulaw_shn.sph /root/utils/output/123_2ulaw_shn.wav
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_1pcbe_shn.sph /root/utils/output/123_1pcbe_shn.wav
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_2pcbe_shn.sph /root/utils/output/123_2pcbe_shn.wav
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_1pcle_shn.sph /root/utils/output/123_1pcle_shn.wav
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_1ulaw_shn.sph /root/utils/output/123_1ulaw_shn.wav
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_2pcle_shn.sph /root/utils/output/123_2pcle_shn.wav
+/root/kaldi/tools/sph2pipe_v2.5/sph2pipe -f wav /root/utils/test/123_2alaw.sph /root/utils/output/123_2alaw.wav
